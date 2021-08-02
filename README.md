@@ -8,7 +8,6 @@ This game is played by most of us in childhood. This is a simple snake game proj
 ```
 pip install pygame
 ```
-If the above code doesn't work, try:
 ```
-py -m pip install -U pygame --user
+python -m pip install freegames
 ```
